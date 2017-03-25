@@ -14,8 +14,8 @@ whats wrong
     
 To include as a [component](https://github.com/componentjs/component), just run
 
-    $ component install FortAwesome/Font-Awesome
-
+    四个tab会发生什么
+    
 Or add
 
     "FortAwesome/Font-Awesome": "*"
