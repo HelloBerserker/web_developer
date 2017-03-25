@@ -12,7 +12,7 @@ whats wrong
 
     四个空格会发生什么
     
-To include as a [component](https://github.com/componentjs/component), just run
+To include as a [网址](https://github.com/componentjs/component), just run
 
     四个tab会发生什么
     
@@ -20,4 +20,5 @@ Or add
 
     "FortAwesome/Font-Awesome": "*"
     
-怎么才能成为一个优秀的程序员`程序员战士` `***战士***` `this`
+怎么才能成为一个优秀的程序员`程序员战士` `**战士**` `this`
+__加粗__ **加粗** *歪了*
