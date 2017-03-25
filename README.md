@@ -7,6 +7,5 @@
 + 不然就要GG了是吧。
 + 今天去杰拉网咖。
 [Google]: http://google.com/ "OPEN"
-[我的个人网页]: http://computewarrior.cn/ "CLICK"
-    两个TAB能生成一个块？
-    are you kidding me？
+[我的个人网页]: http://computewarrior.cn/ 
+    四个tab会发生什么
