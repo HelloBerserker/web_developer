@@ -10,3 +10,11 @@
 [我的个人网页]: http://computewarrior.cn/
 
     四个tab会发生什么
+    
+To include as a [component](https://github.com/componentjs/component), just run
+
+    $ component install FortAwesome/Font-Awesome
+
+Or add
+
+    "FortAwesome/Font-Awesome": "*"
