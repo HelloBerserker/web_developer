@@ -1,17 +1,16 @@
 # 这是我用来练习前端开发的网页
 ### 有一个Wallpaper Engine的壁纸，也有个FontAwesome的cheetsheet
 ### 上海浦东新区秀沿路3768号
-+ 不知道这里能不能拿来当日记呢
-+ 今天加班居然有需求了。
-+ 还好居然自己看的懂。
-+ 不然就要GG了是吧。
-+ 今天去杰拉网咖。
++ 一个小菜鸡
++ 总是说菜鸡互啄，到最后发现自己才是菜鸡。
++ 想做个好项目，可是加班，有无尽的需求，这个markdown language好用啊
++ 陷入了无尽的互啄当中。怎么才能成为大神
 [Google](http://google.com/) "OPEN"
-[我的个人网页](http://computewarrior.cn/)
+[我的个人网页](http://computewarrior.cn/main)
 
 whats wrong
 
-    四个tab会发生什么
+    四个空格会发生什么
     
 To include as a [component](https://github.com/componentjs/component), just run
 
@@ -20,3 +19,4 @@ To include as a [component](https://github.com/componentjs/component), just run
 Or add
 
     "FortAwesome/Font-Awesome": "*"
+'程序员战士' ***战士***
