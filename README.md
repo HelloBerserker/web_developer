@@ -19,4 +19,5 @@ To include as a [component](https://github.com/componentjs/component), just run
 Or add
 
     "FortAwesome/Font-Awesome": "*"
-`程序员战士` ***战士*** `this`
+    
+`程序员战士` `***战士***` `this`
