@@ -11,7 +11,7 @@
 
 whats wrong
 
-    四个tab会发生什么
+    四个tab会发生什么
     
 To include as a [component](https://github.com/componentjs/component), just run
 
