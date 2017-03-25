@@ -8,3 +8,5 @@
 + 今天去杰拉网咖。
 [Google]: http://google.com/ "OPEN"
 [我的个人网页]: http://computewarrior.cn/ "CLICK"
+    两个TAB能生成一个块？
+    are you kidding me？
