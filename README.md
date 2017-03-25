@@ -19,7 +19,8 @@ To include as a [网址](https://github.com/componentjs/component), just run
 Or add
 
     "FortAwesome/Font-Awesome": "*"
-    
+
+
 怎么才能成为一个优秀的程序员`程序员战士` `**战士**` `this`
 __加粗__ **加粗** *歪了*
 
