@@ -57,3 +57,5 @@
 ### 2017年4月7日 13:21:46
 > 明天把实习报告给寄回去。Lately I been I been Losing sleep.Dreaming about things that we could be.
 还可以再加个二类啊，可是我又不想加班的啊。为什么每次提交到git都要密码啊。
+
+### 终于重新安装的开发环境
