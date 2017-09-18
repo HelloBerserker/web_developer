@@ -13,7 +13,7 @@
 <div class="fixedmodel">Hello,我回来了</div>
  <div class='pill f000' >glass</div>
 <div class='pill f001'>music</div>
-<div class='pill f002'>search</div>
+<div class='pill f002'><br>search</div>
 <div class='pill f003'>envelope-o</div>
 <div class='pill f004'>heart</div>
 <div class='pill f005'>star</div>
@@ -693,9 +693,10 @@
 <script>
 var fixed=document.getElementsByClassName("fixedmodel")[0]; 
 	$(
-		$(".pill").hover(function(){
+		$(".pill").click(function(){
 			getMousePos(event);
-			fixed.innerHTML=this.className.substring(5,9)+"<i class='"+this.className.substring(5,9)+"'></i>";
+			fixed.innerHTML=this.className.substring(5,9).toUpperCase()+"  <i style='font-size:150%;' class='"+this.className.substring(5,9)+"'></i>";
+			
 		})
 		);
 	function m()
