@@ -6,11 +6,11 @@
 + 想做个好项目，可是加班，有无尽的需求，这个markdown language好用啊
 + 陷入了无尽的互啄当中。怎么才能成为大神，不再菜鸡互啄。
 * 希望能写出一手好代码。
-* [我的一个废弃的外卖网站](http://computewarrior.cn/main)
+* [我的个人网站](http://computewarrior.cn)
 
 ### whats wrong,Am I wrong?
 
-
+```
     Am I wrong for thinking out the box from where I stay?
     
     静静的不发一言 这只个是否的问题
@@ -36,6 +36,7 @@
     我走这条路,
     
 我的github[helloberserker](https://github.com/helloberserker), GO
+```
     
 ### 关于外卖网站
 
@@ -69,3 +70,6 @@
 
 ### 2017年9月27日 16:27:15
 > 我们的C#功力平分秋色，但是我还有一招几年功力的用户体验和FontAwesome，你要不要领教一下。
+
+### 2017年10月10日 16:24:29
+> 更新Fontawesome样式表。
