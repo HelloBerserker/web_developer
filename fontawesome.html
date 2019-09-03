@@ -1,4 +1,4 @@
-﻿<!DOCTYPE HTML> <html> <head>     <title>FontAwesome template</title>
+﻿<!DOCTYPE HTML> <html> <head>     <title>我的FontAwesome</title>
 <link rel="stylesheet" href="css/font-awesome.css"/>
  <link rel="stylesheet" href="css/my.css"/> 
 <script src="src/jquery.min.js"></script>
@@ -44,27 +44,40 @@
            color:black;
 		   width:100%;
 		   margin:10px auto;
-       }
+	   }
+	   .tip{
+		   font-size: 48px;
+		   width:80px;
+		   text-align: center;
+	   }
+	   .tip span{
+		   font-size:14px;
+	   }
 	  </style>
 <body> <div class="container" id="app">
 <h1>Font Awesome Icons{{Message}}</h1>
 <hr>
 <i class="icon-star icon- border">好几年功力的FontAwesome</i>
+<div class="fixedmodel">Hello,我回来了</div>
 <el-row :gutter="30"  v-for="item in IconList">
-		<el-col :span="6"  v-for="(i,index) in item"><div class="" v-bind:class="i.class"><p>{{i.name}}</p></div></el-col>
+		<el-col :span="6"  v-for="(i,index) in item">
+				<el-tooltip placement="top" effect="light" placement="right">
+					<div slot="content" class="tip" v-bind:class="[i.class]"><span></span></div>
+			<div class="pill" v-bind:class="[i.class]"><p>{{i.name}}</p></div>
+				</el-tooltip>
+		</el-col>
 </el-row>
 <div class="footer">CopyRight@程序员战士lijinfeng</div>
 </div>  
 </body>
 <script>
 var fixed=document.getElementsByClassName("fixedmodel")[0];
-	$(function(){
+	$(
 		$(".pill ").click(function(){
 			getMousePos(event);
 			fixed.innerHTML=this.className.substring(5,9).toUpperCase()+"  <i style='font-size:150%; padding:10px;' class='"+this.className.substring(5,9)+"'></i>";
 			
-		})
-	}		);
+		})	);
 	function m()
 	{
 		getMousePos(event);
